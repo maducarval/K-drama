@@ -1,3 +1,4 @@
 # K-drama
-![image](https://github.com/maducarval/K-drama/assets/90349352/7c5d2697-db6e-4ac7-863e-a18d1c1dd6e8)
+  <a href="https://k-drama-euf1pv0m9-maducarval.vercel.app/?vercelToolbarCode=48oYI4UDHOtqfeQ"><img src="assets/Capa.PNG" alt=""></a>
 
+  
